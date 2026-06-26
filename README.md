@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
