@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
