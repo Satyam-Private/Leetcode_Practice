@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
