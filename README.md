@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Heap (Priority Queue)
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
