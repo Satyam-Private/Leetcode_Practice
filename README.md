@@ -95,4 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
