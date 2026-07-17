@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
