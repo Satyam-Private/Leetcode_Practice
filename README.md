@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
