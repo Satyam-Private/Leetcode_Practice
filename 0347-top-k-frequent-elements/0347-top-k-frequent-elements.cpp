@@ -7,27 +7,22 @@ public:
             freq[i]++; 
         }
 
-        vector<pair<int,int>> mapping; 
+
+        vector<vector<int>> bucket(nums.size()+1); 
+
 
         for(auto it : freq){ 
-            mapping.push_back({it.second , it.first}); 
+            bucket[it.second].push_back(it.first); 
         }
 
-        sort(mapping.begin() , mapping.end() , [](const pair<int,int> &a , const pair<int,int> &b){
-            return a.first > b.first; 
-        }); 
-
-        int range  = 1; 
-
         vector<int> ans; 
-
-       for(int i = 0; i < mapping.size(); i++){
-            if(range <= k){
-                ans.push_back(mapping[i].second); 
+        int counter = 1; 
+        for(int i = bucket.size() - 1; i >= 0; i--){
+            if(counter <= k){
+                ans.insert(ans.end(), bucket[i].begin(), bucket[i].end());
             }
-            range++; 
-       }
-
-       return ans; 
+            counter += bucket[i].size();
+        }
+        return ans; 
     }
 };
