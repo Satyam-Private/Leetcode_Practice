@@ -1,30 +1,30 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-        vector<int> prefixSum(nums.size());
-        vector<int> suffixSum(nums.size()); 
+        int size = nums.size(); 
+        vector<int> prefixSum(size); 
+        vector<int> suffixSum(size); 
 
 
         prefixSum[0] = nums[0]; 
+        suffixSum[size-1] = nums[size-1]; 
 
-        for(int i = 1; i < nums.size(); i++){ 
+
+        for(int i = 1; i < size; i++){ 
             prefixSum[i] = prefixSum[i-1]+nums[i]; 
-        } 
-
-        suffixSum[nums.size() - 1] = nums[nums.size()-1]; 
-
-
-        for(int i = nums.size()-2; i>= 0; i--){ 
-            suffixSum[i] = nums[i]+suffixSum[i+1]; 
         }
 
-        for(int i = 0; i < nums.size(); i++){
-            if(prefixSum[i] == suffixSum[i]){
-                return i;
+        for(int i = size-2; i >= 0; i--){
+            suffixSum[i] = suffixSum[i+1]+nums[i]; 
+        }
+        int ans = -1; 
+
+        for(int i = 0; i < size; i++){ 
+            if(prefixSum[i] == suffixSum[i]){ 
+                ans = i; 
+                break; 
             }
         }
-
-        return -1;
-
+        return ans; 
     }
 };
