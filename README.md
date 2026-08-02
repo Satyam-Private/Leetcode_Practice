@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0238-product-of-array-except-self) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
