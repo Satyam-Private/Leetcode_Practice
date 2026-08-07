@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0984-string-without-aaa-or-bbb) |
