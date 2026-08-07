@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0056-merge-intervals) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 ## Hash Table
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Quickselect
 |  |
