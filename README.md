@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
+| [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
