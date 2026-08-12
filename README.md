@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2090-k-radius-subarray-averages) |
