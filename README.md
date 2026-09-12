@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
