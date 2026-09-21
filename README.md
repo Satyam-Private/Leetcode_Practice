@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0056-merge-intervals) |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0409-longest-palindrome) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0177-nth-highest-salary) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
