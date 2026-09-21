@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1726-tuple-with-same-product](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1726-tuple-with-same-product) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -314,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
