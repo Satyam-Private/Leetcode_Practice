@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
