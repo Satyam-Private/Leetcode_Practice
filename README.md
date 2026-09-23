@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 ## Sliding Window
