@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
