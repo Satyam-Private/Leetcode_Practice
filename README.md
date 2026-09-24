@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
