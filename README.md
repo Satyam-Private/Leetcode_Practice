@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0185-department-top-three-salaries) |
 ## Union-Find
 |  |
 | ------- |
