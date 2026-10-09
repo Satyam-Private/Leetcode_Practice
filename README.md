@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0550-game-play-analysis-iv) |
 | [0596-classes-with-at-least-5-students](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0596-classes-with-at-least-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 ## Union-Find
 |  |
 | ------- |
