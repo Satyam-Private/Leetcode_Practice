@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1341-movie-rating](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1341-movie-rating) |
+| [1393-capital-gainloss](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1393-capital-gainloss) |
 ## Union-Find
 |  |
 | ------- |
