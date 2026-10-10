@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1174-immediate-food-delivery-ii) |
+| [1211-queries-quality-and-percentage](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1211-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1341-movie-rating) |
 | [1393-capital-gainloss](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1393-capital-gainloss) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1633-percentage-of-users-attended-a-contest) |
