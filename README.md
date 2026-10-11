@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1393-capital-gainloss) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1729-find-followers-count](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1934-confirmation-rate](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Union-Find
