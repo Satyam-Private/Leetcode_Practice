@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
 ## Recursion
