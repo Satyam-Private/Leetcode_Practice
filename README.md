@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2485-find-the-pivot-integer) |
