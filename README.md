@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1323-maximum-69-number) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1323-maximum-69-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
