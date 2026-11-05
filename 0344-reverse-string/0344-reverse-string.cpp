@@ -1,21 +1,19 @@
 class Solution {
 public:
-    void reverseString(vector<char>& s) {
-    int size = s.size(); 
+    void revString(vector<char> &s, int ind, vector<char> &temp){
+        if(ind == s.size()) return; 
 
-    if(size == 1) return; 
+        revString(s , ind+1, temp);
 
-
-    int start = 0, end = size - 1; 
-
-    while(start <= end){
-        char temp = s[start]; 
-        s[start] = s[end]; 
-
-        s[end] = temp; 
-
-        start++; 
-        end--; 
+        temp.push_back(s[ind]);  
     }
+    void reverseString(vector<char>& s) {
+        vector<char> temp;  
+
+        revString(s , 0 , temp); 
+
+        for(int i = 0; i < s.size(); i++){
+            s[i] = temp[i]; 
+        }
     }
 };
