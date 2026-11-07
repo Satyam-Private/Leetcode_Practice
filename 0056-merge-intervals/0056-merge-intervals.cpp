@@ -1,33 +1,30 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        vector<vector<int>> ans; 
-        if(intervals.size() == 1) return intervals;
-        int size = intervals.size(); 
-        sort(intervals.begin() , intervals.end() , [](vector<int> a, vector<int> b){
+        sort(intervals.begin() , intervals.end() , [](vector<int> &a , vector<int> &b){
             return a[0] < b[0]; 
-        }); 
+        });
+        vector<vector<int>> finalAns; 
 
+        int start = intervals[0][0], end = intervals[0][1];
 
-        int start = 0; 
-        int minEle = intervals[start][0]; 
-        int maxEle = intervals[start][1]; 
-
-        while(start < size){
-            if(intervals[start][0] <= maxEle){
-                maxEle = max(maxEle , intervals[start][1]); 
-                minEle = min(minEle , intervals[start][0]); 
+        for(int i = 1; i < intervals.size(); i++){
+            if(intervals[i][0] > end){
+                finalAns.push_back({start , end}); 
+                start = intervals[i][0]; 
+                end = intervals[i][1]; 
             }
-            else{
-                ans.push_back({minEle , maxEle}); 
-                minEle = intervals[start][0]; 
-                maxEle = intervals[start][1]; 
+
+            else if(intervals[i][0] <= end && intervals[i][1] > end){
+
+                end = intervals[i][1]; 
+
             }
-            start++; 
         }
-        ans.push_back({minEle , maxEle}); 
-        return ans; 
 
 
+        finalAns.push_back({start , end}); 
+
+        return finalAns;
     }
 };
