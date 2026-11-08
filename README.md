@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
 | [1726-tuple-with-same-product](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1726-tuple-with-same-product) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
