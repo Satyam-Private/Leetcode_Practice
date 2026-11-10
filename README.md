@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
