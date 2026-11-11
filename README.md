@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1539-kth-missing-positive-number) |
 | [1695-maximum-erasure-value](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1695-maximum-erasure-value) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1539-kth-missing-positive-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1833-maximum-ice-cream-bars) |
