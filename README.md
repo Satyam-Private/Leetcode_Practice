@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0763-partition-labels) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0984-string-without-aaa-or-bbb) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
