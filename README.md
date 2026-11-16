@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -527,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1051-height-checker) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
