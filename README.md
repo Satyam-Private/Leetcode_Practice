@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0258-add-digits) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
