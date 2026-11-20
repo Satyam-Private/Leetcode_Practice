@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2974-minimum-number-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3364-minimum-positive-sum-subarray) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2974-minimum-number-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2974-minimum-number-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2974-minimum-number-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
