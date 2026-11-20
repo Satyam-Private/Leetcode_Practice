@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-min-max-game](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1768-merge-strings-alternately) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2405-optimal-partition-of-string](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2405-optimal-partition-of-string) |
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
