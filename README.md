@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2418-sort-the-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1726-tuple-with-same-product](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1726-tuple-with-same-product) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
