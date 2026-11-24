@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
