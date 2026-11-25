@@ -13,8 +13,20 @@ public:
         int n = questions.size(); 
 
         vector<long long> dp(n+1 , -1); 
-        long long ans = solve(questions , n , 0 , dp); 
+        // long long ans = solve(questions , n , 0 , dp); 
+        
+        dp[n-1] = questions[n-1][0]; 
 
-        return ans; 
+
+        for(int i = n - 2; i >= 0; i--){
+            long long sum = 0; 
+            int ind = i + questions[i][1] + 1; 
+            if(ind < n) sum = dp[ind];   
+            long long take = questions[i][0] + sum; 
+            long long notTake = dp[i+1]; 
+
+            dp[i] = max(take , notTake); 
+        }
+        return dp[0]; 
     }
 };
