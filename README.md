@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2090-k-radius-subarray-averages) |
 | [2126-destroying-asteroids](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2126-destroying-asteroids) |
+| [2140-solving-questions-with-brainpower](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2140-solving-questions-with-brainpower) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2187-minimum-time-to-complete-trips) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1137-n-th-tribonacci-number) |
+| [2140-solving-questions-with-brainpower](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2140-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
