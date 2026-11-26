@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0605-can-place-flowers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
@@ -609,4 +611,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0064-minimum-path-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
