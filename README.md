@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0976-largest-perimeter-triangle](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/1137-n-th-tribonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/2140-solving-questions-with-brainpower) |
 ## Hash Table
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0064-minimum-path-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Satyam-Private/Leetcode_Practice/tree/master/0931-minimum-falling-path-sum) |
 ## Backtracking
 |  |
 | ------- |
